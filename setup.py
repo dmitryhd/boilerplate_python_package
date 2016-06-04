@@ -11,10 +11,9 @@ setup(
     version = "0.0.1",
     author = "Dmitry Khodakov",
     author_email = "dmitryhd@gmail.com",
-    description = ("An demonstration of how to create, document, and publish "
-                   "to the cheese shop a5 pypi.org."),
+    description = (""),
     license = "BSD",
-    keywords = "example documentation tutorial",
+    keywords = "",
     packages=['module', 'tests'],
     long_description=read('README.md'),
     classifiers=[
