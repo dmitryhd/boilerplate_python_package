@@ -5,6 +5,7 @@ All the cool practices in one place.
 
 - can be installed as pypi package
 - easy to test
+- travis ci!
 
 todo
 ----
