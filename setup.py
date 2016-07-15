@@ -7,13 +7,13 @@ def read(fname):
 
 
 setup(
-    name = "module",
-    version = "0.0.1",
-    author = "Dmitry Khodakov",
-    author_email = "dmitryhd@gmail.com",
-    description = (""),
-    license = "BSD",
-    keywords = "",
+    name="module",
+    version="0.0.1",
+    author="Dmitry Khodakov",
+    author_email="dmitryhd@gmail.com",
+    description=(""),
+    license="BSD",
+    keywords="",
     packages=['module', 'tests'],
     long_description=read('README.md'),
     classifiers=[

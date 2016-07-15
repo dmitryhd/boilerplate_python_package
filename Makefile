@@ -3,6 +3,9 @@ TEST_RUNNER = py.test
 
 all: test
 
+pep8:
+	pep8 .
+
 test:
 	py.test -q
 
